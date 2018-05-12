@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26047#The-Atlantic-Monthly-Volume-15-No.-87-January-1865--13-A-Magazine-of-Literature-Art-and-Polit_
 gutenberg_bookshelf: The Atlantic Monthly
 gutenberg_issued: '2008-07-13'
 gutenberg_type: Text
